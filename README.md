@@ -1,6 +1,6 @@
 # Bulut Bilisim 
 Bu repo bulut bilisim dersi icin olusturulmustur 
-Fianl projemim bullunduğu repo pc ye format atığım için git yukleyemedim bu yuzden ayrı repo oluşturdum
+Fianl projemim bullunduğu repo 
 https://github.com/devbturk/Final-MMOT225-
 
 
